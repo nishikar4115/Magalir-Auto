@@ -15,7 +15,7 @@ The main goal of this project is to address real-world safety concerns faced by 
 Through this project, I gained experience in planning, structuring, and presenting an application idea. I also improved my understanding of user needs and how technology can be used to solve real-life problems.
 
 ## Project Status
-This project represents the design and concept of a women-focused auto booking solution.
+This project basic demo representing the design and concept of a women-focused auto booking solution.
 
 ## Author
 Nishika R
